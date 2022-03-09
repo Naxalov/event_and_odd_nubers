@@ -5,7 +5,6 @@
 - Beginner
 - Intermediate
 - Mixed
-- Advanced
 
 
 Automated grading of homework assignments and tests
